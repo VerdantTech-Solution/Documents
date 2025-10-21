@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7" pages="8">
   <diagram id="5SFW9a5gOQd8HRSw676e" name="Trang-7">
-    <mxGraphModel dx="3631" dy="2141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3287" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="430" y="404" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dwGmPtos8lSsHR1V933X-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Cart&lt;/b&gt;&lt;/font&gt;" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="325" y="622" width="150" height="56" as="geometry" />
+          <mxGeometry x="345" y="622" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dwGmPtos8lSsHR1V933X-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;CartItem&lt;/b&gt;&lt;/font&gt;" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="325" y="840" width="150" height="56" as="geometry" />
+          <mxGeometry x="345" y="820" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dwGmPtos8lSsHR1V933X-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Order&lt;/b&gt;&lt;/font&gt;" style="shape=rectangle;rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="822" y="582" width="150" height="56" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry x="240" y="246" width="150" height="56" as="geometry" />
         </mxCell>
         <mxCell id="dwGmPtos8lSsHR1V933X-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;creates&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#E65100;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="330" y="500" width="140" height="80" as="geometry" />
+          <mxGeometry x="350" y="494" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dwGmPtos8lSsHR1V933X-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HasItem&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#E65100;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="330" y="710" width="140" height="80" as="geometry" />
+          <mxGeometry x="350" y="710" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dwGmPtos8lSsHR1V933X-31" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;PlacesOrder&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;fillColor=#FFF3E0;strokeColor=#E65100;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="620" y="570" width="140" height="80" as="geometry" />
