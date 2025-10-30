@@ -1827,7 +1827,7 @@
           <mxGeometry x="1634" width="402" height="1160" as="geometry" />
         </mxCell>
         <mxCell id="xth8qUHbHZHacptDsgGU-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Validate session&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="VTS3-1otBFQSeChfBnLC-16">
-          <mxGeometry x="137.75" y="305" width="126.5" height="60" as="geometry" />
+          <mxGeometry x="147" y="305" width="126.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VTS3-1otBFQSeChfBnLC-77" value="" style="group" vertex="1" connectable="0" parent="VTS3-1otBFQSeChfBnLC-16">
           <mxGeometry x="206" y="990" width="50" height="50" as="geometry" />
